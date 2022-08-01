@@ -1,1 +1,1 @@
-# MathExample
+# Some examples
